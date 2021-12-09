@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     @Override
                     public void onPermissionGranted() {
                         try {
+
                             DialogScanningUUID.newInstance("", "", "Smart-Ring", new DialogScanningUUID.ConnectDeviceCallBack() {
                                 @Override
                                 public void onRequestToBLEDevice(String macAddress) {

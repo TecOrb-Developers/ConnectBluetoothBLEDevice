@@ -129,7 +129,6 @@ public class ActivityConnectDevice extends AppCompatActivity implements View.OnC
                 binding.textView4.setTextColor(Color.RED);
             }
         }
-
     }
 
     public void registerActivityForCharacteristics() {
