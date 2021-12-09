@@ -44,10 +44,10 @@ It can also request different types of callbacks for delivering the result.
 
 2. Add permission 
 ```
-- Manifest.permission.ACCESS_FINE_LOCATION
-- Manifest.permission.BLUETOOTH
-- Manifest.permission.BLUETOOTH_ADMIN
-- Manifest.permission.FOREGROUND_SERVICE
+ Manifest.permission.ACCESS_FINE_LOCATION
+ Manifest.permission.BLUETOOTH
+ Manifest.permission.BLUETOOTH_ADMIN
+ Manifest.permission.FOREGROUND_SERVICE
 ```
 
 3. Connect device with name
