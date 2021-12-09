@@ -1,0 +1,3 @@
+include ':HRBLEDevice'
+include ':app'
+rootProject.name = "HRConnectBLEDevice"
